@@ -1,5 +1,7 @@
 # generator-gulp-angular [![Build Status](https://secure.travis-ci.org/Swiip/generator-gulp-angular.svg?branch=master)](http://travis-ci.org/Swiip/generator-gulp-angular)
 
+This was a great baseline generator, but I wanted to fork it to make adjustments for my team's workflow.
+
 Offers you a Yeoman generator to initiate a Web application with the following workflow:
 
 <img height="100" align="left" src="https://raw.githubusercontent.com/yeoman/yeoman.io/master/app/assets/img/bullet-yo.gif">
